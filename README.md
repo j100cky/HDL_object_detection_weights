@@ -1,1 +1,1 @@
-# HDL_object_detection_weights
+# Contains the trained weights for HDL particle detection using the YOLOv7 model.
